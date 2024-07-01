@@ -1,7 +1,8 @@
+![logo](https://github.com/stejabhat/stejabhat/blob/main/banner.jfif)
 <h1 align="center">Hi 👋, I'm Teja Bhat</h1>
 <h3 align="center">An aspiring developer who is a continuous learner and a project enthusiast.</h3>
 
-<img alugn="right" alt="coding" width=400 src="https://miro.medium.com/v2/resize:fit:1400/1*KlNlGjWBb0mScNgnX9Uxjw.gif">
+<img align="right" alt="coding" width=400 src="https://miro.medium.com/v2/resize:fit:1400/1*KlNlGjWBb0mScNgnX9Uxjw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stejabhat&label=Profile%20views&color=0e75b6&style=flat" alt="stejabhat" /> </p>
 
 - 🔭 I’m currently working on **job hub project**
