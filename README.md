@@ -1,4 +1,4 @@
-![logo](https://github.com/stejabhat/stejabhat/blob/main/banner.jfif)
+![logo]([https://github.com/stejabhat/stejabhat/blob/main/banner.jfif](https://i.pinimg.com/564x/33/cc/88/33cc8870ad3b5dc8f2fdf4c092a46fd8.jpg))
 <h1 align="center">Hi 👋, I'm Teja Bhat</h1>
 <h3 align="center">An aspiring developer who is a continuous learner and a project enthusiast.</h3>
 
