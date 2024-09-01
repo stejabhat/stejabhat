@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/stejabhat/stejabhat/main/desktop%20codeing%20wallpaper.jfif)
+![logo](https://raw.githubusercontent.com/stejabhat/stejabhat/main/download%20(2).jfif)
 <h1 align="center">Hi 👋, I'm Teja Bhat</h1>
 <h3 align="center">An aspiring developer who is a continuous learner and a project enthusiast.</h3>
 
