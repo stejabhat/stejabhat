@@ -5,11 +5,11 @@
 <img align="right" alt="coding" width=400 src="https://miro.medium.com/v2/resize:fit:1400/1*KlNlGjWBb0mScNgnX9Uxjw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stejabhat&label=Profile%20views&color=0e75b6&style=flat" alt="stejabhat" /> </p>
 
-- 🔭 I’m currently working on **job hub project**
+- 🔭 I’m currently working on **app development**
 
 - 🌱 I’m currently learning **Frontend and the Backend**
 
-- 💬 Ask me about **basics of python, html and css**
+- 💬 Ask me about **Kotlin, python, html and css**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
