@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/52/61/ea/5261ea3a6f62c8a8f1fdcc06aec8f0c9.gif" alt="logo" width="250"/>
+  <img src="https://i.pinimg.com/originals/52/61/ea/5261ea3a6f62c8a8f1fdcc06aec8f0c9.gif" alt="logo" width="700"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Teja Bhat</h1>
