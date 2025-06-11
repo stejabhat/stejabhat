@@ -1,4 +1,4 @@
-![logo](https://i.pinimg.com/originals/00/54/5c/00545cb7179c504433d4c8f5e845f286.gif)
+![logo]((https://i.pinimg.com/originals/52/61/ea/5261ea3a6f62c8a8f1fdcc06aec8f0c9.gif))
 <h1 align="center">Hi 👋, I'm Teja Bhat</h1>
 <h3 align="center">An aspiring developer who is a continuous learner and a project enthusiast.</h3>
 
