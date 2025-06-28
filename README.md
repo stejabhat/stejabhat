@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Teja Bhat</h1>
-<h3 align="center">An aspiring developer who is a continuous learner and a project enthusiast.</h3>
+<h3 align="center">A curious developer who is a continuous learner and a project enthusiast.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/2d/29/40/2d2940898055620e0c58128c629d1b8c.gif">
 
