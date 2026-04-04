@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=teja bhat&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Junior Software Development%20%7C%20[Your company]&descAlignY=58&descAlign=50"/>
-</div>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/52/61/ea/5261ea3a6f62c8a8f1fdcc06aec8f0c9.gif" alt="logo" width="700"/>
+</p>
+
 
 <div align="center">
   
