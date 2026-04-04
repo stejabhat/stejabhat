@@ -24,7 +24,7 @@
 <img align="right" alt="Cyberpunk GIF" width="300" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 
 ```bash
-> ACCESS GRANTED: Nabil Thange
+> ACCESS GRANTED: teja bhat
 > ALIAS: bitnarrator
 > CLEARANCE LEVEL: 7month almost
 > LOCATION: Navi Mumbai, IN
@@ -167,12 +167,12 @@ CLOUD_NETWORK:
 
 ## 📊 NEURAL NETWORK ANALYTICS 📊
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nabilthange&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=FF0080" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nabilthange&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF0080&currStreakLabel=00FFFF" alt="GitHub Streak" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=stejabhta&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=FF0080" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=stejabhat&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF0080&currStreakLabel=00FFFF" alt="GitHub Streak" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabilthange&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stejabhat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" width="45%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nabilthange&bg_color=0D1117&color=00FF41&line=FF0080&point=00FFFF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stejabhat&bg_color=0D1117&color=00FF41&line=FF0080&point=00FFFF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 
 </div>
 
@@ -203,7 +203,7 @@ CLOUD_NETWORK:
 
 <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100">
 
-<a href="https://github.com/Nabilthange">
+<a href="https://github.com/stejabhat">
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/>
 </a>
 <a href="https://linkedin.com/in/tejabhat">
@@ -218,7 +218,7 @@ CLOUD_NETWORK:
 <a href="https://discord.gg/[Your discord]">
   <img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
-<a href="mailto:nabil@example.com">
+<a href="mailto:bhatsteja@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
