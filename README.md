@@ -47,7 +47,7 @@ Introvertness- i am more of a person whotry to solve problems 10 times before re
 
 ## 🚀 PROJECT ARCHIVES 🚀
 
-<img src="https://media.tenor.com/mg-vFmLUHdUAAAAM/nic-cage-nicolas-cage.gif" width="100">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyaWp5dGJvMWh1c3lncnM1dXUxbmNqY3IzZ2hqbWljM29jZHg4M3Y5bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NEvPzZ8bd1V4Y/200.gif" width="100">
 
 </div>
 
@@ -114,7 +114,7 @@ Just tried to explain how brutal crime is through data analysis
 
 ## 💻 TECH ARSENAL 💻
 
-<img src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width="100">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyaDBqbnR0cDd5OGt3NzF0ajZ1a3RveHpoYmZqMGQwamlhYTg5b290MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/clspXK4twFiGjTwxOZ/giphy.gif" width="100">
 
 </div>
 
@@ -177,7 +177,7 @@ CLOUD_NETWORK:
 
 ## 🔬 LEARNING PROTOCOL 🔬
 
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100">
+<img src="https://animesher.com/orig/2/202/2029/20295/animesher.com_college-gif-sleep-2029578.gif" width="100">
 
 </div>
 
@@ -252,7 +252,7 @@ CLOUD_NETWORK:
 > NEXT_MISSION: BUILDING THE FUTURE
 ```
 
-<img src="https://media.giphy.com/media/xUA7aM09ByyR1w5YWc/giphy.gif" width="400">
+<img src="https://i.makeagif.com/media/11-27-2015/YDxkKr.gif" width="400">
 
 </div>
 
