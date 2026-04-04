@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Teja Bhat</h1>
-<h3 align="center">A curious developer who is a continuous learner and a project enthusiast.</h3>
+<h3 align="center">Still learning. Still building. Understanding is a work in progress.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/2d/29/40/2d2940898055620e0c58128c629d1b8c.gif">
 
@@ -11,13 +11,13 @@
   <img src="https://komarev.com/ghpvc/?username=stejabhat&label=Profile%20views&color=0e75b6&style=flat" alt="stejabhat" />
 </p>
 
--  Junior Developer. ML Engineer. Neither explains much.
+- Junior Developer. ML Engineer. Titles don’t explain much.
 
--  Still learning. Still wrong.
+- Learning is continuous. So is being wrong.
   
--  ML/AI — because guessing needed structure.
+- ML/AI — turning guesses into something defensible.
 
--  Kotlin, Python, HTML, CSS. If it sounds simple, it isn’t.
+- Kotlin, Python, HTML, CSS. Simple on the surface. Rarely in reality.
 
 ---
 
@@ -26,13 +26,13 @@
   <a href="https://www.linkedin.com/in/tejabhat/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Teja Bhat" height="30" width="40" />
   </a>
-
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
-</a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
@@ -51,9 +51,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
 </p>
 
 <br/>
@@ -61,6 +61,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stejabhat&layout=compact&theme=radical&hide_border=true&title_color=00ffff&text_color=f8f8f2&bg_color=0d1117" alt="Top Languages" width="34.6%" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=stejabhat&show_icons=true&theme=radical&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=f8f8f2&bg_color=0d1117" alt="GitHub Stats" width="45%" />
-
 </p>
-
