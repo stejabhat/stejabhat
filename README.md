@@ -225,12 +225,12 @@ CLOUD_NETWORK:
 
 ## 🎯 MISSION DIRECTIVE 🎯
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100">
+<img src="https://media.tenor.com/PDINYNP5HlcAAAAM/doakes-dexter.gif" width="100">
 
 </div>
 
 ```
-> PERSONAL_QUOTE: ""If you are so sure, then burn the ship" - unknown"
+> PERSONAL_QUOTE: "If you are so sure, then burn the ship" - unknown
 > HIDEOUT_LOCATION: Github, local meetups
 > CONNECTION_STATUS: ALWAYS_ONLINE
 > COLLABORATION_MODE: ENABLED
