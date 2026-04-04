@@ -1,8 +1,15 @@
 <div align="center">
 
+```
+ ██████ ╗██╗   ██╗██████╗ ███████╗██████╗ ██████╗ ██╗   ██╗███╗   ██╗██╗  ██╗
+ ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██║   ██║████╗  ██║██║ ██╔╝
+ ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝██████╔╝██║   ██║██╔██╗ ██║█████╔╝ 
+ ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██╔═══╝ ██║   ██║██║╚██╗██║██╔═██╗ 
+ ╚██████╗   ██║   ██████╔╝███████╗██║  ██║██║     ╚██████╔╝██║ ╚████║██║  ██╗
+  ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝
+```
 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=SYSTEM%3A+CONNECTED;USER%3A+bitnarrator;ROLE%3A+Junior Software Development;STATUS%3A+ONLINE" alt="Matrix Typing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=SYSTEM%3A+CONNECTED;USER%3A+bitnarrator;ROLE%3A+Full Stack Developer;STATUS%3A+ONLINE" alt="Matrix Typing"/>
 
 </div>
 
@@ -17,16 +24,16 @@
 <img align="right" alt="Cyberpunk GIF" width="300" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 
 ```bash
-> ACCESS GRANTED: teja bhat
+> ACCESS GRANTED: Nabil Thange
 > ALIAS: bitnarrator
 > CLEARANCE LEVEL: 7month almost
-> LOCATION: Bangalore, Karnataka
-> CORPORATION: Tech startup
+> LOCATION: Navi Mumbai, IN
+> CORPORATION: Tech Innovations Inc.
 > STATUS: employed
 ```
 
 **🔬 BIO_DATA:**  
-Can’t leave things alone once they start making sense...
+Passionate developer who loves creating amazing digital experiences with modern technologies.
 
 **🧠 CORE_PHILOSOPHY:**  
 Technology should help humans worry less about data privacy.
@@ -117,7 +124,7 @@ Just tried to explain how brutal crime is through data analysis
 </div>
 
 PROGRAMMING_LANGUAGES:
-  arsenal: [![My Skills](https://skillicons.dev/icons?i=ts,vue,bootstrap,vite,tailwindcss,nextjs,js,nodejs,java,python,flask,django,mysql,postgresql,oracle,firebase,aws,docker,kubernetes,linux,ubuntu,apache,kotlin,figma,photoshop,adobexd,tensorflow,scikitlearn,numpy,jupyter,pandas,pytorch,git,github,notion,slack,postman,vscode)](https://skillicons.dev)
+  arsenal: [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,python,ts)](https://skillicons.dev)
   
 ```yaml
 
@@ -160,12 +167,12 @@ CLOUD_NETWORK:
 
 ## 📊 NEURAL NETWORK ANALYTICS 📊
 
-<img src="https://github-readme-stats.vercel.app/api?username=stejabhat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=FF0080" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stejabhat&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF0080&currStreakLabel=00FFFF" alt="GitHub Streak" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nabilthange&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=FF0080" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nabilthange&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF0080&currStreakLabel=00FFFF" alt="GitHub Streak" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stejabhat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabilthange&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" width="45%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=stejabhat&bg_color=0D1117&color=00FF41&line=FF0080&point=00FFFF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nabilthange&bg_color=0D1117&color=00FF41&line=FF0080&point=00FFFF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 
 </div>
 
@@ -196,7 +203,7 @@ CLOUD_NETWORK:
 
 <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100">
 
-<a href="https://github.com/stejabhat">
+<a href="https://github.com/Nabilthange">
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/>
 </a>
 <a href="https://linkedin.com/in/tejabhat">
@@ -211,7 +218,7 @@ CLOUD_NETWORK:
 <a href="https://discord.gg/[Your discord]">
   <img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
-<a href="mailto:bhatsteja@gmail.com">
+<a href="mailto:nabil@example.com">
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -240,9 +247,9 @@ CLOUD_NETWORK:
 
 ### ⚡ SYSTEM MONITORING ⚡
 
-<img src="https://komarev.com/ghpvc/?username=stejabhat&color=00FF41&style=for-the-badge&label=NEURAL+CONNECTIONS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Nabilthange&color=00FF41&style=for-the-badge&label=NEURAL+CONNECTIONS" alt="Profile Views"/>
 
-<img src="https://github-trophies.vercel.app/?username=stejabhat&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=Nabilthange&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 
 ```
 > STATUS: ONLINE AND READY FOR COLLABORATION
