@@ -16,7 +16,7 @@ ABOUT ME
 
 </div>
 
-<img align="right" alt="Cyberpunk GIF" width="300" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+<img align="right" alt="Cyberpunk GIF" width="300" src="https://us1.discourse-cdn.com/spiceworks/original/4X/f/7/5/f751776beea7ca000875724230a6bdb59d8e507c.gif">
 
 ```bash
 > ACCESS GRANTED: teja bhat
