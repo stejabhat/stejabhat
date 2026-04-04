@@ -26,10 +26,10 @@
 ```bash
 > ACCESS GRANTED: teja bhat
 > ALIAS: bitnarrator
-> CLEARANCE LEVEL: [Your experienceLevel]
+> CLEARANCE LEVEL: nearly 7 month
 > LOCATION: Bangalore, Karnataka
 > CORPORATION: Tech startup
-> STATUS: [Your currentStatus]
+> STATUS: woring..
 ```
 
 **🔬 BIO_DATA:**  
