@@ -147,10 +147,9 @@ CLOUD_NETWORK:
 <div align="center">
 
   <img src="https://img.shields.io/badge/building-000000?style=for-the-badge&logo=code&logoColor=00FF41" alt="Primary Tech" />
-  <img src="https://img.shields.io/badge/EXP_LEVEL-7month almost-FF0080?style=for-the-badge&logoColor=white" alt="Experience Level" />
-  <img src="https://img.shields.io/badge/BEST_ACCURACY-92%-00FFFF?style=for-the-badge&logoColor=black" alt="Best Accuracy" />
-  <img src="https://img.shields.io/badge/CODING_HOURS-50-60 hours/week-00FF41?style=for-the-badge&logoColor=black" alt="Coding Hours" />
-
+  <img src="https://img.shields.io/badge/EXP_LEVEL-7month%20almost-FF0080?style=for-the-badge&logoColor=white" alt="Experience Level" />
+  <img src="https://img.shields.io/badge/BEST_ACCURACY-92%25-00FFFF?style=for-the-badge&logoColor=black" alt="Best Accuracy" />
+  <img src="https://img.shields.io/badge/Coding-55h-green?style=for-the-badge&logoColor=black" alt="Coding Hours"/>
 </div>
 
 
