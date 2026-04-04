@@ -1,4 +1,10 @@
+<div align="center">
 
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=SYSTEM%3A+CONNECTED;USER%3A+bitnarrator;ROLE%3A+Junior Software Development;STATUS%3A+ONLINE" alt="Matrix Typing"/>
+
+</div>
 
 ---
 
@@ -13,10 +19,10 @@
 ```bash
 > ACCESS GRANTED: teja bhat
 > ALIAS: bitnarrator
-> CLEARANCE LEVEL: nearly 7 month
+> CLEARANCE LEVEL: 7month almost
 > LOCATION: Bangalore, Karnataka
 > CORPORATION: Tech startup
-> STATUS: woring..
+> STATUS: employed
 ```
 
 **🔬 BIO_DATA:**  
@@ -91,9 +97,9 @@ ACCESS: LIMITED
 ```
 Just tried to explain how brutal crime is through data analysis
 
-**TECH_STACK:** `[Your project3Tech]`
+**TECH_STACK:** `Python, HTML`
 
-[![REPO](https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=00FF41)]([Your project3Repo])
+[![REPO](https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/stejabhat/crime-data-2001-2014)
 [![DEMO](https://img.shields.io/badge/DEMO-FF0080?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/stejabhat/crime-data-2001-2014)
 
 </td>
@@ -138,8 +144,8 @@ CLOUD_NETWORK:
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/[Your primaryTech]-000000?style=for-the-badge&logo=code&logoColor=00FF41" alt="Primary Tech" />
-  <img src="https://img.shields.io/badge/EXP_LEVEL-[Your experienceLevel]-FF0080?style=for-the-badge&logoColor=white" alt="Experience Level" />
+  <img src="https://img.shields.io/badge/building-000000?style=for-the-badge&logo=code&logoColor=00FF41" alt="Primary Tech" />
+  <img src="https://img.shields.io/badge/EXP_LEVEL-7month almost-FF0080?style=for-the-badge&logoColor=white" alt="Experience Level" />
   <img src="https://img.shields.io/badge/BEST_ACCURACY-92%-00FFFF?style=for-the-badge&logoColor=black" alt="Best Accuracy" />
   <img src="https://img.shields.io/badge/CODING_HOURS-50-60 hours/week-00FF41?style=for-the-badge&logoColor=black" alt="Coding Hours" />
 
@@ -199,7 +205,7 @@ CLOUD_NETWORK:
 <a href="https://twitter.com/stejabhat">
   <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
-<a href="[Your portfolio]">
+<a href="https://stejabhat.github.io/portfolio/">
   <img src="https://img.shields.io/badge/PORTFOLIO-FF0080?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://discord.gg/[Your discord]">
