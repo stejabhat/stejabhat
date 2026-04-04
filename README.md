@@ -177,7 +177,7 @@ CLOUD_NETWORK:
 
 ## 🔬 LEARNING PROTOCOL 🔬
 
-<img src="https://animesher.com/orig/2/202/2029/20295/animesher.com_college-gif-sleep-2029578.gif" width="100">
+<img src="https://media1.tenor.com/m/16eGPDCCrZUAAAAd/breaking-bad-ahh-wire.gif" width="100">
 
 </div>
 
