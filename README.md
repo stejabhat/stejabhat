@@ -260,7 +260,7 @@ CLOUD_NETWORK:
 <div align="center">
 
 ```
-END OF FILE
+CASE CLOSED!
 ```
 
 </div>
