@@ -11,11 +11,13 @@
   <img src="https://komarev.com/ghpvc/?username=stejabhat&label=Profile%20views&color=0e75b6&style=flat" alt="stejabhat" />
 </p>
 
-- 🔭 I’m currently working on **App Development**
+-  Junior Developer. ML Engineer. Neither explains much.
 
-- 🌱 I’m currently learning **Frontend and Backend**
+-  Still learning. Still wrong.
+  
+-  ML/AI — because guessing needed structure.
 
-- 💬 Ask me about **Kotlin, Python, HTML, and CSS**
+-  Kotlin, Python, HTML, CSS. If it sounds simple, it isn’t.
 
 ---
 
