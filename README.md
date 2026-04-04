@@ -9,7 +9,7 @@
                                                                        
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=SYSTEM%3A+CONNECTED;USER%3A+bitnarrator;ROLE%3A+Junior Software Development;STATUS%3A+ONLINE" alt="Matrix Typing"/>
+<img src="https://i.pinimg.com/originals/2d/29/40/2d2940898055620e0c58128c629d1b8c.gif" alt="Matrix Typing"/>
 
 </div>
 
