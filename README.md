@@ -1,41 +1,15 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/52/61/ea/5261ea3a6f62c8a8f1fdcc06aec8f0c9.gif" alt="logo" width="700"/>
-</p>
-
-
 <div align="center">
-  
-  <!-- Glassmorphism Profile Card -->
-  <table>
-    <tr>
-      <td align="center" style="padding: 20px; background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=[Your tagline];why does this actually work?" alt="Typing SVG" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <!-- Clean Social Links -->
-  <a href="mailto:bhatsteja@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6C63FF?style=flat-square&logo=gmail&logoColor=white&labelColor=transparent" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://stejabhat.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=firefox&logoColor=white&labelColor=transparent" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/stejabhat">
-    <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=flat-square&logo=linkedin&logoColor=white&labelColor=transparent" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/stejabhat">
-    <img src="https://img.shields.io/badge/GitHub-45B7D1?style=flat-square&logo=github&logoColor=white&labelColor=transparent" alt="GitHub"/>
-  </a>
-  
-  <br/><br/>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=stejabhat&color=6C63FF&style=flat-square&label=visitors)
+
+```
+ ██████ ╗██╗   ██╗██████╗ ███████╗██████╗ ██████╗ ██╗   ██╗███╗   ██╗██╗  ██╗
+ ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██║   ██║████╗  ██║██║ ██╔╝
+ ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝██████╔╝██║   ██║██╔██╗ ██║█████╔╝ 
+ ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██╔═══╝ ██║   ██║██║╚██╗██║██╔═██╗ 
+ ╚██████╗   ██║   ██████╔╝███████╗██║  ██║██║     ╚██████╔╝██║ ╚████║██║  ██╗
+  ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=SYSTEM%3A+CONNECTED;USER%3A+bitnarrator;ROLE%3A+Junior Software Development;STATUS%3A+ONLINE" alt="Matrix Typing"/>
 
 </div>
 
@@ -43,32 +17,147 @@
 
 <div align="center">
 
-## ✨ About Me
+## ⚡ NEURAL INTERFACE ACTIVATED ⚡
+
+</div>
+
+<img align="right" alt="Cyberpunk GIF" width="300" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+
+```bash
+> ACCESS GRANTED: teja bhat
+> ALIAS: bitnarrator
+> CLEARANCE LEVEL: [Your experienceLevel]
+> LOCATION: Bangalore, Karnataka
+> CORPORATION: Tech startup
+> STATUS: [Your currentStatus]
+```
+
+**🔬 BIO_DATA:**  
+Can’t leave things alone once they start making sense...
+
+**🧠 CORE_PHILOSOPHY:**  
+Technology should help humans worry less about data privacy.
+
+**⚡ SUPERPOWER:**  
+Understanding code of every language that exist
+
+**🛡️ WEAKNESS:**  
+Introvertness- i am more of a person whotry to solve problems 10 times before reaching out to someone
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+## 🚀 PROJECT ARCHIVES 🚀
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
+
+</div>
 
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=stejabhat&show_icons=true&theme=transparent&hide_border=true&title_color=6C63FF&icon_color=FF6B6B&text_color=4A4A4A&bg_color=00000000" alt="GitHub Stats"/>
-    </td>
-    <td align="center" width="50%">
-      <div style="text-align: left; padding: 20px;">
-        <p><strong>📍 Location:</strong> Bangalore, Karnataka</p>
-        <p><strong>🏢 Company:</strong> [Your company]</p>
-        <p><strong>💼 Role:</strong> Junior Software Development</p>
-        <p><strong>🌱 Learning:</strong> Machine learning, Artificial Intelligence, prompting</p>
-        <p><strong>🎯 Goal:</strong> Make things work and understand why they do..</p>
-        <p><strong>⚡ Fun fact:</strong> 23-day streak stuck on an annoying bug… finally cracked it on day 24.</p>
-      </div>
-    </td>
-  </tr>
+<tr>
+<td colspan="3">
+
+### 🌐 CLASSIFIED OPERATIONS
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+#### 💚  video-reader-project
+```
+STATUS: DEPLOYED
+ACCESS: PUBLIC
+```
+A Python project that leverages FastVLM to analyze and interpret video content efficiently. Perfect for video understanding, research, or building AI-powered media tools.
+
+**TECH_STACK:** `Swift, Python, Shell, Other`
+
+[![REPO](https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/stejabhat/video-reader-project)
+[![DEMO](https://img.shields.io/badge/DEMO-FF0080?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/stejabhat/video-reader-project)
+
+</td>
+<td width="33%">
+
+#### 💜 Geo-Based Restaurant Intelligence & Location Recommendation System
+```
+STATUS: ACTIVE
+ACCESS: PUBLIC
+```
+A comprehensive data-driven system that analyzes restaurant distribution using geospatial data (latitude & longitude) to identify high-density and low-density food areas, analyze cuisine distribution, cluster areas into business categories, and recommend the best locations to open a new restaurant based on opportunity scores.
+
+**TECH_STACK:** `HTML, Python `
+
+[![REPO](https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/stejabhat/Restaurant-Intelligence-System)
+[![DEMO](https://img.shields.io/badge/DEMO-FF0080?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/stejabhat/Restaurant-Intelligence-System)
+
+</td>
+<td width="33%">
+
+#### 🔵 Crime data analysis
+```
+STATUS: BETA
+ACCESS: LIMITED
+```
+Just tried to explain how brutal crime is through data analysis
+
+**TECH_STACK:** `[Your project3Tech]`
+
+[![REPO](https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=00FF41)]([Your project3Repo])
+[![DEMO](https://img.shields.io/badge/DEMO-FF0080?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/stejabhat/crime-data-2001-2014)
+
+</td>
+</tr>
 </table>
 
-</div>
+---
 
 <div align="center">
 
-### 💭 Bio
-*Can’t leave things alone once they start making sense...*
+## 💻 TECH ARSENAL 💻
+
+<img src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width="100">
+
+</div>
+
+PROGRAMMING_LANGUAGES:
+  arsenal: [![My Skills](https://skillicons.dev/icons?i=ts,vue,bootstrap,vite,tailwindcss,nextjs,js,nodejs,java,python,flask,django,mysql,postgresql,oracle,firebase,aws,docker,kubernetes,linux,ubuntu,apache,kotlin,figma,photoshop,adobexd,tensorflow,scikitlearn,numpy,jupyter,pandas,pytorch,git,github,notion,slack,postman,vscode)](https://skillicons.dev)
+  
+```yaml
+
+
+FRONTEND_MATRIX:
+  skills: "[![My Skills](https://skillicons.dev/icons?i=ts,vue,bootstrap,vite,tailwindcss,nextjs,js)](https://skillicons.dev)"
+  
+BACKEND_CORE:
+  skills: "[![My Skills](https://skillicons.dev/icons?i=nodejs,java,python,flask,django)](https://skillicons.dev)"
+  
+DATABASE_NODES:
+  connections: "[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,oracle,firebase)](https://skillicons.dev)"
+  
+DEVOPS_PIPELINE:
+  automation: "Docker"
+  
+CLOUD_NETWORK:
+  infrastructure: "[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,ubuntu,apache)](https://skillicons.dev)"
+```
+
+<div align="center">
+
+### ⚡ SYSTEM STATS ⚡
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/[Your primaryTech]-000000?style=for-the-badge&logo=code&logoColor=00FF41" alt="Primary Tech" />
+  <img src="https://img.shields.io/badge/EXP_LEVEL-[Your experienceLevel]-FF0080?style=for-the-badge&logoColor=white" alt="Experience Level" />
+  <img src="https://img.shields.io/badge/BEST_ACCURACY-92%-00FFFF?style=for-the-badge&logoColor=black" alt="Best Accuracy" />
+  <img src="https://img.shields.io/badge/CODING_HOURS-50-60 hours/week-00FF41?style=for-the-badge&logoColor=black" alt="Coding Hours" />
+
+</div>
+
 
 </div>
 
@@ -76,38 +165,14 @@
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## 📊 NEURAL NETWORK ANALYTICS 📊
 
-<!-- Language Stats -->
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stejabhat&layout=compact&theme=transparent&hide_border=true&title_color=6C63FF&text_color=4A4A4A&bg_color=00000000" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=stejabhat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=FF0080" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=stejabhat&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF0080&currStreakLabel=00FFFF" alt="GitHub Streak" width="49%"/>
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stejabhat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" width="45%"/>
 
-<!-- Skills Grid -->
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Frontend-6C63FF?style=for-the-badge&logoColor=white"/>
-      <br/>
-      <sub></sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Backend-FF6B6B?style=for-the-badge&logoColor=white"/>
-      <br/>
-      <sub>[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Database-4ECDC4?style=for-the-badge&logoColor=white"/>
-      <br/>
-      <sub></sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Tools-45B7D1?style=for-the-badge&logoColor=white"/>
-      <br/>
-      <sub>git, docker</sub>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stejabhat&bg_color=0D1117&color=00FF41&line=FF0080&point=00FFFF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 
 </div>
 
@@ -115,39 +180,47 @@
 
 <div align="center">
 
-## 🚀 Current Projects
+## 🔬 LEARNING PROTOCOL 🔬
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <div style="min-height: 120px; display: flex; flex-direction: column; justify-content: space-between;">
-        <h3> video-reader-project</h3>
-        <p><sub>A Python project that leverages FastVLM to analyze and interpret video content efficiently. Perfect for video understanding, research, or building AI-powered media tools.</sub></p>
-        <a href="https://github.com/stejabhat/video-reader-project">
-          <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=flat-square&logo=github&logoColor=white"/>
-        </a>
-      </div>
-    </td>
-    <td align="center" width="33%">
-      <div style="min-height: 120px; display: flex; flex-direction: column; justify-content: space-between;">
-        <h3>Geo-Based Restaurant Intelligence & Location Recommendation System</h3>
-        <p><sub>A comprehensive data-driven system that analyzes restaurant distribution using geospatial data (latitude & longitude) to identify high-density and low-density food areas, analyze cuisine distribution, cluster areas into business categories, and recommend the best locations to open a new restaurant based on opportunity scores.</sub></p>
-        <a href="https://github.com/stejabhat/Restaurant-Intelligence-System">
-          <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=flat-square&logo=github&logoColor=white"/>
-        </a>
-      </div>
-    </td>
-    <td align="center" width="33%">
-      <div style="min-height: 120px; display: flex; flex-direction: column; justify-content: space-between;">
-        <h3>Crime data analysis</h3>
-        <p><sub>Just tried to explain how brutal crime is through data analysis</sub></p>
-        <a href="https://github.com/stejabhat/crime-data-2001-2014">
-          <img src="https://img.shields.io/badge/View%20Project-4ECDC4?style=flat-square&logo=github&logoColor=white"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100">
+
+</div>
+
+```bash
+> CURRENT_LEARNING_PROCESS: Machine learning, Artificial Intelligence, prompting
+> MOTIVATION_CORE: why does this actually work?
+> OBJECTIVE_PRIMARY: Make things work and understand why they do..
+> OBJECTIVE_SECONDARY: End up being the person who knows something
+```
+
+**⏰ NEURAL_UPTIME:** 50-60 hours hours/week
+
+---
+
+<div align="center">
+
+## 🌐 NETWORK CONNECTIONS 🌐
+
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100">
+
+<a href="https://github.com/stejabhat">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/tejabhat">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/stejabhat">
+  <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="[Your portfolio]">
+  <img src="https://img.shields.io/badge/PORTFOLIO-FF0080?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://discord.gg/[Your discord]">
+  <img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<a href="mailto:bhatsteja@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
@@ -155,13 +228,36 @@
 
 <div align="center">
 
-## 📈 GitHub Activity
+## 🎯 MISSION DIRECTIVE 🎯
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stejabhat&theme=transparent&hide_border=true&stroke=6C63FF&ring=FF6B6B&fire=4ECDC4&currStreakLabel=6C63FF&background=00000000" alt="GitHub Streak"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100">
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=stejabhat&theme=minimal&hide_border=true&bg_color=00000000&color=6C63FF&line=FF6B6B&point=4ECDC4&area=true&area_color=6C63FF" alt="Contribution Graph"/>
+```
+> PERSONAL_QUOTE: ""If you are so sure, then burn the ship" - unknown"
+> HIDEOUT_LOCATION: Github, local meetups
+> CONNECTION_STATUS: ALWAYS_ONLINE
+> COLLABORATION_MODE: ENABLED
+```
+
+---
+
+<div align="center">
+
+### ⚡ SYSTEM MONITORING ⚡
+
+<img src="https://komarev.com/ghpvc/?username=stejabhat&color=00FF41&style=for-the-badge&label=NEURAL+CONNECTIONS" alt="Profile Views"/>
+
+<img src="https://github-trophies.vercel.app/?username=stejabhat&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+
+```
+> STATUS: ONLINE AND READY FOR COLLABORATION
+> LAST_SEEN: JUST NOW
+> NEXT_MISSION: BUILDING THE FUTURE
+```
+
+<img src="https://media.giphy.com/media/xUA7aM09ByyR1w5YWc/giphy.gif" width="400">
 
 </div>
 
@@ -169,71 +265,8 @@
 
 <div align="center">
 
-## 🎨 Interests & Hobbies
+```
+END OF FILE
+```
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Machine Learning and some Artificial Intelligence-6C63FF?style=flat-square&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Research and development-FF6B6B?style=flat-square&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Travelling-4ECDC4?style=flat-square&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Literature-45B7D1?style=flat-square&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
-### 🌟 Philosophy
-> "Time doesn't change things. "Doing things changes things. Doing nothing leaves things exactly the way they were" - Dr. Greg House"
-
-</div>
-
----
-
-<div align="center">
-
-## 📫 Let's Connect
-
-<br/>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="mailto:bhatsteja@gmail.com">
-        <img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://stejabhat.github.io/portfolio/">
-        <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://linkedin.com/in/stejabhat">
-        <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="[Your socialLink]">
-        <img src="https://img.shields.io/badge/[Your socialPlatform]-45B7D1?style=for-the-badge&logo=[Your socialLogo]&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### 💡 Open to opportunities in: Opportunities where understanding matters more than just delivery.
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=18&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+✨;Let's+create+something+amazing+together!+🚀;Always+happy+to+connect+and+collaborate!+💫" alt="Footer Message"/>
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
 </div>
