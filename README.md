@@ -247,9 +247,9 @@ CLOUD_NETWORK:
 
 ### ⚡ SYSTEM MONITORING ⚡
 
-<img src="https://komarev.com/ghpvc/?username=Nabilthange&color=00FF41&style=for-the-badge&label=NEURAL+CONNECTIONS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=stejabhat&color=00FF41&style=for-the-badge&label=NEURAL+CONNECTIONS" alt="Profile Views"/>
 
-<img src="https://github-trophies.vercel.app/?username=Nabilthange&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=stejabhat&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 
 ```
 > STATUS: ONLINE AND READY FOR COLLABORATION
