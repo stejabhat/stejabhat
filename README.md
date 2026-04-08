@@ -37,7 +37,7 @@ Technology should help humans worry less about data privacy.
 Understanding code of every language that exist
 
 **🛡️ WEAKNESS:**  
-Introvertness- i am more of a person whotry to solve problems 10 times before reaching out to someone
+Introvertness- i am more of a person who try to solve problems 10 times before reaching out to someone
 
 <br clear="right"/>
 
