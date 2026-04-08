@@ -34,10 +34,10 @@ Passionate developer who loves creating amazing digital experiences with modern 
 Technology should help humans worry less about data privacy.
 
 **⚡ SUPERPOWER:**  
-Understanding code of every language that exist
+Figure it out early and watch the deadline panic.
 
 **🛡️ WEAKNESS:**  
-Introvertness- i am more of a person who try to solve problems 10 times before reaching out to someone
+I’m persistent to a fault. I’ll try a few extra rounds before reaching out.
 
 <br clear="right"/>
 
