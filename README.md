@@ -114,7 +114,7 @@ Just tried to explain how brutal crime is through data analysis
 
 ## 💻 TECH ARSENAL 💻
 
-<img src="https://i.pinimg.com/originals/3b/4f/05/3b4f057aafc779b81bc75d8c52bd2b67.gif" width="100">
+<img src="https://media.tenor.com/S-KMagOlSU8AAAAM/the-rookie-melissa-o%27neil.gif" width="100">
 
 </div>
 
