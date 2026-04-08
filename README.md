@@ -114,7 +114,7 @@ Just tried to explain how brutal crime is through data analysis
 
 ## 💻 TECH ARSENAL 💻
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyaDBqbnR0cDd5OGt3NzF0ajZ1a3RveHpoYmZqMGQwamlhYTg5b290MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/clspXK4twFiGjTwxOZ/giphy.gif" width="100">
+<img src="https://i.pinimg.com/originals/3b/4f/05/3b4f057aafc779b81bc75d8c52bd2b67.gif" width="100">
 
 </div>
 
