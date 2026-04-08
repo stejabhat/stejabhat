@@ -22,8 +22,8 @@ ABOUT ME
 > ACCESS GRANTED: teja bhat
 > ALIAS: bitnarrator
 > CLEARANCE LEVEL: 7month almost
-> LOCATION: Navi Mumbai, IN
-> CORPORATION: Tech Innovations Inc.
+> LOCATION: Karnataka, IN
+> CORPORATION: Some technical company.
 > STATUS: employed
 ```
 
@@ -64,7 +64,7 @@ Introvertness- i am more of a person who try to solve problems 10 times before r
 
 #### 💚  video-reader-project
 ```
-STATUS: DEPLOYED
+STATUS: DEPLOYED(in github)
 ACCESS: PUBLIC
 ```
 A Python project that leverages FastVLM to analyze and interpret video content efficiently. Perfect for video understanding, research, or building AI-powered media tools.
