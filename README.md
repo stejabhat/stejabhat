@@ -21,14 +21,14 @@ ABOUT ME
 ```bash
 > ACCESS GRANTED: teja bhat
 > ALIAS: bitnarrator
-> CLEARANCE LEVEL: 7month almost
+> CLEARANCE LEVEL: 9month
 > LOCATION: Karnataka, IN
-> CORPORATION: Some technical company.
+> ROLE: R & D.
 > STATUS: employed
 ```
 
 **🔬 BIO_DATA:**  
-Passionate developer who loves creating amazing digital experiences with modern technologies.
+Developer who loves creating amazing digital experiences with modern technologies.
 
 **🧠 CORE_PHILOSOPHY:**  
 Technology should help humans worry less about data privacy.
