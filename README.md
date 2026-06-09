@@ -195,7 +195,7 @@ CLOUD_NETWORK:
 
 ## 🌐 NETWORK CONNECTIONS 🌐
 
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100">
+<img src="https://media.tenor.com/vk8eiNAVqeQAAAAe/blue-thumbs-up-guy-blue.png" width="100">
 
 <a href="https://github.com/stejabhat">
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/>
